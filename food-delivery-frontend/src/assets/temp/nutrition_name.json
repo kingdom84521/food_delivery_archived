@@ -1,0 +1,29 @@
+{
+	"nutrition": {
+		"grains": {
+			"chinese_name": "穀物",
+			"unit_index": 0
+		},
+		"greens": {
+			"chinese_name": "蔬菜",
+			"unit_index": 2
+		},
+		"protiens": {
+			"chinese_name": "蛋豆",
+			"unit_index": 3
+		},
+		"dairies": {
+			"chinese_name": "乳品",
+			"unit_index": 1
+		},
+		"fruits": {
+			"chinese_name": "水果",
+			"unit_index": 3
+		},
+		"nuts": {
+			"chinese_name": "堅果",
+			"unit_index": 3
+		}
+	},
+	"unit": [ "碗", "杯", "碟", "份", "茶匙" ]
+}

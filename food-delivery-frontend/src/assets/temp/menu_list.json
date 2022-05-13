@@ -1,0 +1,1993 @@
+[
+  {
+    "id": 200001,
+    "name": null,
+    "description": null,
+    "categories": [{
+        "id": 500001,
+        "name": "義大利麵",
+        "description": "餐點附紅茶一杯，套餐面量加大",
+        "products": [{
+            "id": 600001,
+            "name": "奶油野菇培根",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": "正常",
+                "price": 95,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700002,
+                "name": "加大",
+                "price": 115,
+                "nutrition": {
+                  "id": 800012,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700003,
+                "name": "升級套餐",
+                "price": 135,
+                "nutrition": {
+                  "id": 800013,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          },
+          {
+            "id": 600002,
+            "name": "韓式泡菜培根",
+            "description": null,
+            "product_variations": [{
+                "id": 700004,
+                "name": "正常",
+                "price": 115,
+                "nutrition": {
+                  "id": 800014,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700005,
+                "name": "加大",
+                "price": 135,
+                "nutrition": {
+                  "id": 800015,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700006,
+                "name": "升級套餐",
+                "price": 155,
+                "nutrition": {
+                  "id": 800016,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          },
+          {
+            "id": 600003,
+            "name": "白醬蛤蜊",
+            "description": null,
+            "product_variations": [{
+                "id": 700007,
+                "name": "正常",
+                "price": 115,
+                "nutrition": {
+                  "id": 800017,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700008,
+                "name": "加大",
+                "price": 135,
+                "nutrition": {
+                  "id": 800018,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700009,
+                "name": "升級套餐",
+                "price": 155,
+                "nutrition": {
+                  "id": 800019,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          },
+          {
+            "id": 600004,
+            "name": "德式香腸",
+            "description": null,
+            "product_variations": [{
+                "id": 700010,
+                "name": "正常",
+                "price": 105,
+                "nutrition": {
+                  "id": 800020,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700011,
+                "name": "加大",
+                "price": 125,
+                "nutrition": {
+                  "id": 800021,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700012,
+                "name": "升級套餐",
+                "price": 145,
+                "nutrition": {
+                  "id": 800022,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          },
+          {
+            "id": 600005,
+            "name": "泰式酸辣海鮮",
+            "description": null,
+            "product_variations": [{
+                "id": 700013,
+                "name": "正常",
+                "price": 115,
+                "nutrition": {
+                  "id": 800023,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700014,
+                "name": "加大",
+                "price": 135,
+                "nutrition": {
+                  "id": 800024,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700015,
+                "name": "升級套餐",
+                "price": 155,
+                "nutrition": {
+                  "id": 800025,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          },
+          {
+            "id": 600006,
+            "name": "鴨賞香辣",
+            "description": null,
+            "product_variations": [{
+                "id": 700016,
+                "name": "正常",
+                "price": 115,
+                "nutrition": {
+                  "id": 800026,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700017,
+                "name": "加大",
+                "price": 135,
+                "nutrition": {
+                  "id": 800027,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700018,
+                "name": "升級套餐",
+                "price": 155,
+                "nutrition": {
+                  "id": 800028,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          },
+          {
+            "id": 600007,
+            "name": "茄汁肉醬",
+            "description": null,
+            "product_variations": [{
+                "id": 700019,
+                "name": "正常",
+                "price": 95,
+                "nutrition": {
+                  "id": 800029,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700020,
+                "name": "加大",
+                "price": 115,
+                "nutrition": {
+                  "id": 800030,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700021,
+                "name": "升級套餐",
+                "price": 135,
+                "nutrition": {
+                  "id": 800031,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 500002,
+        "name": "點心",
+        "description": null,
+        "products": [{
+            "id": 600008,
+            "name": "香脆薯條",
+            "description": null,
+            "product_variations": [{
+              "id": 700022,
+              "name": null,
+              "price": 50,
+              "nutrition": {
+                "id": 800032,
+                "serving_size": 300,
+                "serving_per_container": 1,
+                "unit_type": "weight",
+                "nutrition_facts": {
+                  "calories": 200,
+                  "protein": 10.8,
+                  "fat": {
+                    "total": 5.6,
+                    "saturated_fat": 4.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 26.8,
+                    "sugars": 17.6
+                  },
+                  "sodium": 160
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600009,
+            "name": "嗆味雞米花",
+            "description": null,
+            "product_variations": [{
+              "id": 700023,
+              "name": null,
+              "price": 70,
+              "nutrition": {
+                "id": 800033,
+                "serving_size": 300,
+                "serving_per_container": 1,
+                "unit_type": "weight",
+                "nutrition_facts": {
+                  "calories": 200,
+                  "protein": 10.8,
+                  "fat": {
+                    "total": 5.6,
+                    "saturated_fat": 4.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 26.8,
+                    "sugars": 17.6
+                  },
+                  "sodium": 160
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600010,
+            "name": "德國香腸",
+            "description": null,
+            "product_variations": [{
+              "id": 700024,
+              "name": null,
+              "price": 70,
+              "nutrition": {
+                "id": 800034,
+                "serving_size": 300,
+                "serving_per_container": 1,
+                "unit_type": "weight",
+                "nutrition_facts": {
+                  "calories": 200,
+                  "protein": 10.8,
+                  "fat": {
+                    "total": 5.6,
+                    "saturated_fat": 4.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 26.8,
+                    "sugars": 17.6
+                  },
+                  "sodium": 160
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600011,
+            "name": "主廚濃湯",
+            "description": null,
+            "product_variations": [{
+              "id": 700025,
+              "name": null,
+              "price": 35,
+              "nutrition": {
+                "id": 800035,
+                "serving_size": 300,
+                "serving_per_container": 1,
+                "unit_type": "weight",
+                "nutrition_facts": {
+                  "calories": 200,
+                  "protein": 10.8,
+                  "fat": {
+                    "total": 5.6,
+                    "saturated_fat": 4.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 26.8,
+                    "sugars": 17.6
+                  },
+                  "sodium": 160
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600012,
+            "name": "手工雞蛋布丁",
+            "description": null,
+            "product_variations": [{
+              "id": 700026,
+              "name": null,
+              "price": 35,
+              "nutrition": {
+                "id": 800036,
+                "serving_size": 300,
+                "serving_per_container": 1,
+                "unit_type": "weight",
+                "nutrition_facts": {
+                  "calories": 200,
+                  "protein": 10.8,
+                  "fat": {
+                    "total": 5.6,
+                    "saturated_fat": 4.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 26.8,
+                    "sugars": 17.6
+                  },
+                  "sodium": 160
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600013,
+            "name": "鬆餅",
+            "description": null,
+            "product_variations": [{
+              "id": 700027,
+              "name": null,
+              "price": 50,
+              "nutrition": {
+                "id": 800037,
+                "serving_size": 300,
+                "serving_per_container": 1,
+                "unit_type": "weight",
+                "nutrition_facts": {
+                  "calories": 200,
+                  "protein": 10.8,
+                  "fat": {
+                    "total": 5.6,
+                    "saturated_fat": 4.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 26.8,
+                    "sugars": 17.6
+                  },
+                  "sodium": 160
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600014,
+            "name": "奶酪",
+            "description": null,
+            "product_variations": [{
+              "id": 700028,
+              "name": null,
+              "price": 35,
+              "nutrition": {
+                "id": 800038,
+                "serving_size": 300,
+                "serving_per_container": 1,
+                "unit_type": "weight",
+                "nutrition_facts": {
+                  "calories": 200,
+                  "protein": 10.8,
+                  "fat": {
+                    "total": 5.6,
+                    "saturated_fat": 4.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 26.8,
+                    "sugars": 17.6
+                  },
+                  "sodium": 160
+                }
+              },
+              "topping_ids": []
+            }]
+          }
+        ]
+      },
+      {
+        "id": 500003,
+        "name": "飲品",
+        "description": null,
+        "products": [{
+            "id": 600015,
+            "name": "蔗香紅茶",
+            "description": null,
+            "product_variations": [{
+              "id": 700029,
+              "name": null,
+              "price": 30,
+              "nutrition": {
+                "id": 800039,
+                "serving_size": 250,
+                "serving_per_container": 1,
+                "unit_type": "volume",
+                "nutrition_facts": {
+                  "calories": 138,
+                  "protein": 4.5,
+                  "fat": {
+                    "total": 4.5,
+                    "saturated_fat": 3.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 20.0,
+                    "sugars": 20.0
+                  },
+                  "sodium": 112
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600016,
+            "name": "凍檸茶",
+            "description": null,
+            "product_variations": [{
+              "id": 700030,
+              "name": null,
+              "price": 55,
+              "nutrition": {
+                "id": 800040,
+                "serving_size": 250,
+                "serving_per_container": 1,
+                "unit_type": "volume",
+                "nutrition_facts": {
+                  "calories": 138,
+                  "protein": 4.5,
+                  "fat": {
+                    "total": 4.5,
+                    "saturated_fat": 3.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 20.0,
+                    "sugars": 20.0
+                  },
+                  "sodium": 112
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600017,
+            "name": "鮮奶茶",
+            "description": null,
+            "product_variations": [{
+              "id": 700031,
+              "name": null,
+              "price": 55,
+              "nutrition": {
+                "id": 800041,
+                "serving_size": 250,
+                "serving_per_container": 1,
+                "unit_type": "volume",
+                "nutrition_facts": {
+                  "calories": 138,
+                  "protein": 4.5,
+                  "fat": {
+                    "total": 4.5,
+                    "saturated_fat": 3.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 20.0,
+                    "sugars": 20.0
+                  },
+                  "sodium": 112
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600018,
+            "name": "養樂多紅茶",
+            "description": null,
+            "product_variations": [{
+              "id": 700032,
+              "name": null,
+              "price": 60,
+              "nutrition": {
+                "id": 800042,
+                "serving_size": 250,
+                "serving_per_container": 1,
+                "unit_type": "volume",
+                "nutrition_facts": {
+                  "calories": 138,
+                  "protein": 4.5,
+                  "fat": {
+                    "total": 4.5,
+                    "saturated_fat": 3.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 20.0,
+                    "sugars": 20.0
+                  },
+                  "sodium": 112
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600019,
+            "name": "檸檬養樂多",
+            "description": null,
+            "product_variations": [{
+              "id": 700033,
+              "name": null,
+              "price": 65,
+              "nutrition": {
+                "id": 800043,
+                "serving_size": 250,
+                "serving_per_container": 1,
+                "unit_type": "volume",
+                "nutrition_facts": {
+                  "calories": 138,
+                  "protein": 4.5,
+                  "fat": {
+                    "total": 4.5,
+                    "saturated_fat": 3.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 20.0,
+                    "sugars": 20.0
+                  },
+                  "sodium": 112
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600020,
+            "name": "蜂蜜檸檬",
+            "description": null,
+            "product_variations": [{
+              "id": 700034,
+              "name": null,
+              "price": 50,
+              "nutrition": {
+                "id": 800044,
+                "serving_size": 250,
+                "serving_per_container": 1,
+                "unit_type": "volume",
+                "nutrition_facts": {
+                  "calories": 138,
+                  "protein": 4.5,
+                  "fat": {
+                    "total": 4.5,
+                    "saturated_fat": 3.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 20.0,
+                    "sugars": 20.0
+                  },
+                  "sodium": 112
+                }
+              },
+              "topping_ids": []
+            }]
+          },
+          {
+            "id": 600021,
+            "name": "冬瓜檸檬",
+            "description": null,
+            "product_variations": [{
+              "id": 700035,
+              "name": null,
+              "price": 45,
+              "nutrition": {
+                "id": 800045,
+                "serving_size": 250,
+                "serving_per_container": 1,
+                "unit_type": "volume",
+                "nutrition_facts": {
+                  "calories": 138,
+                  "protein": 4.5,
+                  "fat": {
+                    "total": 4.5,
+                    "saturated_fat": 3.0,
+                    "trans_fatty_acid": 0
+                  },
+                  "carbohydrates": {
+                    "total": 20.0,
+                    "sugars": 20.0
+                  },
+                  "sodium": 112
+                }
+              },
+              "topping_ids": []
+            }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200006,
+    "name": null,
+    "description": null,
+    "categories": [
+      {
+        "id": 500001,
+        "name": "粥",
+        "description": null,
+        "products": [
+          {
+            "id": 600001,
+            "name": "廣東粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 80,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "招牌粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 70,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "海產粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 80,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "鮮魚粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 75,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "羊肉粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 75,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "雞肉粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 70,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "兒童粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 80,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 500001,
+        "name": "麵食",
+        "description": null,
+        "products": [
+          {
+            "id": 600001,
+            "name": "海鮮鍋燒麵",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 80,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "海鮮雞絲麵",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 70,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "海鮮冬粉",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 80,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "海鮮烏龍麵",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 75,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "香菇鍋燒麵",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 75,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "香菇雞絲麵",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 70,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600001,
+            "name": "香菇冬粉",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": null,
+                "price": 80,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200007,
+    "name": null,
+    "description": null,
+    "categories": [{
+        "id": 500001,
+        "name": "粥品",
+        "description": null,
+        "products": [{
+            "id": 600001,
+            "name": "小米地瓜粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700001,
+                "name": "正常",
+                "price": 30,
+                "nutrition": {
+                  "id": 800011,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              },
+              {
+                "id": 700003,
+                "name": "升級套餐",
+                "price": 60,
+                "nutrition": {
+                  "id": 800013,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600002,
+            "name": "五穀雜糧粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700004,
+                "name": "正常",
+                "price": 30,
+                "nutrition": {
+                  "id": 800014,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              },
+              {
+                "id": 700006,
+                "name": "升級套餐",
+                "price": 60,
+                "nutrition": {
+                  "id": 800016,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600003,
+            "name": "紅豆紫米粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700007,
+                "name": "正常",
+                "price": 30,
+                "nutrition": {
+                  "id": 800017,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              },
+              {
+                "id": 700009,
+                "name": "升級套餐",
+                "price": 60,
+                "nutrition": {
+                  "id": 800019,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600004,
+            "name": "八寶養生粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700010,
+                "name": "正常",
+                "price": 40,
+                "nutrition": {
+                  "id": 800020,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              },
+              {
+                "id": 700012,
+                "name": "升級套餐",
+                "price": 70,
+                "nutrition": {
+                  "id": 800022,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600005,
+            "name": "紅藜麥牙粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700013,
+                "name": "正常",
+                "price": 40,
+                "nutrition": {
+                  "id": 800023,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": [300002]
+              },
+              {
+                "id": 700015,
+                "name": "升級套餐",
+                "price": 70,
+                "nutrition": {
+                  "id": 800025,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": [300001, 300002]
+              }
+            ]
+          },
+          {
+            "id": 600006,
+            "name": "紅棗紅藜粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700016,
+                "name": "正常",
+                "price": 40,
+                "nutrition": {
+                  "id": 800026,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              },
+              {
+                "id": 700018,
+                "name": "升級套餐",
+                "price": 70,
+                "nutrition": {
+                  "id": 800028,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600007,
+            "name": "10榖雜糧粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700019,
+                "name": "正常",
+                "price": 40,
+                "nutrition": {
+                  "id": 800029,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              },
+              {
+                "id": 700021,
+                "name": "升級套餐",
+                "price": 70,
+                "nutrition": {
+                  "id": 800031,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          },
+          {
+            "id": 600007,
+            "name": "南瓜花菁粥",
+            "description": null,
+            "product_variations": [{
+                "id": 700019,
+                "name": "正常",
+                "price": 40,
+                "nutrition": {
+                  "id": 800029,
+                  "serving_size": 400,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 548,
+                    "protein": 23.6,
+                    "fat": {
+                      "total": 12.8,
+                      "saturated_fat": 4.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 848.4,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1136
+                  }
+                },
+                "topping_ids": []
+              },
+              {
+                "id": 700021,
+                "name": "升級套餐",
+                "price": 70,
+                "nutrition": {
+                  "id": 800031,
+                  "serving_size": 500,
+                  "serving_per_container": 1,
+                  "unit_type": "weight",
+                  "nutrition_facts": {
+                    "calories": 685,
+                    "protein": 29.5,
+                    "fat": {
+                      "total": 16.0,
+                      "saturated_fat": 5.1,
+                      "trans_fatty_acid": 0.0
+                    },
+                    "carbohydrates": {
+                      "total": 106.0,
+                      "sugars": 0.0
+                    },
+                    "sodium": 1420.0
+                  }
+                },
+                "topping_ids": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
